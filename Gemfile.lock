@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.11.1)
+    multi_json (1.13.0)
+    rainbow (3.0.0)
+    rake (12.3.0)
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  multi_json
+  rainbow
+  rake
+  thor
+
+BUNDLED WITH
+   1.16.1
